@@ -1,4 +1,3 @@
-Got you — here’s the cleaned README with your username and without submission stuff 👇
 
 ````md
 # Restaurant Management System
